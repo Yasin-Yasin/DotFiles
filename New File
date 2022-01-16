@@ -1,0 +1,24 @@
+sudo apt install plank
+sudo apt install jdk-default
+sudo apt install xfce4-appmenu-plugin
+sudo apt install python3-pip
+
+
+
+# Aliases
+alias nano="nano -m$"
+alias python="python3"
+alias pip="python -m pip"
+
+# obsidian-icon-theme
+Faenza-icon-theme
+CascadiaCode.ttf
+
+Books:
+bash.pdf
+javanotes8-linked
+TLCL-19.01
+
+
+
+
