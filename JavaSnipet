@@ -1,0 +1,13 @@
+"Main Function": {
+		"prefix": "main",
+		"body": [
+			"public class $TM_FILENAME_BASE {",
+			"",
+			"\tpublic static void main (String[] args) {",
+			"\t\t$1",
+			"\t}",
+			"}"
+		],
+		"description": "Starting Template"
+	}
+}
